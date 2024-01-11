@@ -1,0 +1,21 @@
+[
+    {
+      "nome": "Camiseta",
+      "codigo": "001",
+      "descricao": "Camiseta de algodão com estampa",
+      "preco": 29.99
+    },
+    {
+      "nome": "Calça Jeans",
+      "codigo": "002",
+      "descricao": "Calça jeans de corte slim",
+      "preco": 49.99
+    },
+    {
+      "nome": "Tênis Esportivo",
+      "codigo": "003",
+      "descricao": "Tênis para atividades esportivas",
+      "preco": 79.99
+    }
+  ]
+  
